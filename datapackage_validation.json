@@ -1,6 +1,6 @@
 {
   "version": "4.16.6",
-  "time": 0.021,
+  "time": 0.022,
   "errors": [],
   "tasks": [
     {
@@ -47,13 +47,13 @@
         "scheme": "file",
         "title": "Partos a partir de 2025",
         "stats": {
-          "hash": "8a5e337cf9027a3309bdda80871fc29a",
-          "bytes": 861,
+          "hash": "db92f05369e24a43ccd14f41149e4b33",
+          "bytes": 3628,
           "fields": 5,
-          "rows": 44
+          "rows": 192
         }
       },
-      "time": 0.012,
+      "time": 0.013,
       "scope": [
         "hash-count-error",
         "byte-count-error",
